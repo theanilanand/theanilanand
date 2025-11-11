@@ -20,7 +20,7 @@
 
 
 ### 🌍 Connect with Me  
-- [LinkedIn]()  www.linkedin.com/in/
+- LinkedIn www.linkedin.com/in/
 anil-anand-250376370
 - [Instagram](https://www.instagram.com/theanilanand/)  
 - [WavyGo](https://www.linkedin.com/company/wavygo)  
