@@ -2,7 +2,7 @@
 
 # 👋 Hey, I’m Anil Anand  
 
-🚀 **Founder & CEO @ WavyGo** — building smarter mobility for the next billion users.  
+🚀 **Founder & CEO @WavyGo** — building smarter mobility for the next billion users.  
 🎓 Physics undergrad @ NIT Surat  
 💡 Passionate about tech, startups, and building scalable systems.  
 
