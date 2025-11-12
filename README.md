@@ -18,10 +18,11 @@
 - Learning scalable backend systems  
 - Reading about mobility, automation & product design  
 
-  ### 🌍 Connect with Me
+ ### 🌍 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/anil-anand-250376370/)
 - [Instagram](https://www.instagram.com/theanilanand/)
-- [WavyGo](https://www.linkedin.com/company/wavygomobility/)
+- [Twitter (X)](https://x.com/theanilanand?t=uSHIAhvYoMJdFg7T7bFdug&s=09)
+- [WavyGo™](https://www.linkedin.com/company/wavygomobility/)
 
 
  “Building isn’t about code — it’s about vision, execution, and obsession with progress.”
